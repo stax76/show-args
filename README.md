@@ -21,3 +21,8 @@ It can be useful to debug complex command lines.
 - https://docs.microsoft.com/en-us/archive/blogs/twistylittlepassagesallalike/everyone-quotes-command-line-arguments-the-wrong-way
 - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_quoting_rules
 - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_special_characters
+
+Other apps
+----------
+
+https://stax76.github.io/frankskare
