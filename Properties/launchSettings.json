@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "show-args": {
+      "commandName": "Project",
+      "commandLineArgs": "aaaaa bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    }
+  }
+}
