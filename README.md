@@ -5,6 +5,11 @@ Windows app that shows a message box with the received command line arguments.
 
 It can be useful to debug complex command lines.
 
+# Requirements
+
+- Windows 7 or newer
+- [.NET Desktop Runtime 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+
 # Screenshot
 
 ![-](show-args.png)
